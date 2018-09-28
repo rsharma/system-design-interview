@@ -142,100 +142,100 @@ There are some good references for each question. The references here are slides
 
 **Design a CDN network**  
 Reference:  
-* [Globally Distributed Content Delivery](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2112&context=compsci)
+- [ ] [Globally Distributed Content Delivery](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2112&context=compsci)
 
 **Design a Google document system**  
 Reference:  
-* [google-mobwrite](https://code.google.com/p/google-mobwrite/)
-* [Differential Synchronization](https://neil.fraser.name/writing/sync/)
+- [ ] [google-mobwrite](https://code.google.com/p/google-mobwrite/)
+- [ ] [Differential Synchronization](https://neil.fraser.name/writing/sync/)
 
 **Design a random ID generation system**  
 Reference: 
-* [Announcing Snowflake](https://blog.twitter.com/2010/announcing-snowflake) 
-* [snowflake](https://github.com/twitter/snowflake/)
+- [ ] [Announcing Snowflake](https://blog.twitter.com/2010/announcing-snowflake) 
+- [ ] [snowflake](https://github.com/twitter/snowflake/)
 
 **Design a key-value database**  
 Reference:   
-* [Introduction to Redis](http://www.slideshare.net/dvirsky/introduction-to-redis)
+- [ ] [Introduction to Redis](http://www.slideshare.net/dvirsky/introduction-to-redis)
 
 **Design the Facebook news feed function**   
 Reference:   
-* [What are best practices for building something like a News Feed?](http://www.quora.com/What-are-best-practices-for-building-something-like-a-News-Feed) 
-* [What are the scaling issues to keep in mind while developing a social network feed?](http://www.quora.com/Activity-Streams/What-are-the-scaling-issues-to-keep-in-mind-while-developing-a-social-network-feed) 
-* [Activity Feeds Architecture](http://www.slideshare.net/danmckinley/etsy-activity-feeds-architecture)
+- [ ] [What are best practices for building something like a News Feed?](http://www.quora.com/What-are-best-practices-for-building-something-like-a-News-Feed) 
+- [ ] [What are the scaling issues to keep in mind while developing a social network feed?](http://www.quora.com/Activity-Streams/What-are-the-scaling-issues-to-keep-in-mind-while-developing-a-social-network-feed) 
+- [ ] [Activity Feeds Architecture](http://www.slideshare.net/danmckinley/etsy-activity-feeds-architecture)
 
 **Design the Facebook timeline function**   
 Reference: 
-* [Building Timeline](https://www.facebook.com/note.php?note_id=10150468255628920) 
-* [Facebook Timeline](http://highscalability.com/blog/2012/1/23/facebook-timeline-brought-to-you-by-the-power-of-denormaliza.html)
+- [ ] [Building Timeline](https://www.facebook.com/note.php?note_id=10150468255628920) 
+- [ ] [Facebook Timeline](http://highscalability.com/blog/2012/1/23/facebook-timeline-brought-to-you-by-the-power-of-denormaliza.html)
 
 **Design a function to return the top k requests during past time interval**   
 Reference:  
-* [Efficient Computation of Frequent and Top-k Elements in Data Streams](http://www.cse.ust.hk/~raywong/comp5331/References/EfficientComputationOfFrequentAndTop-kElementsInDataStreams.pdf)
-* [An Optimal Strategy for Monitoring Top-k Queries in Streaming Windows](http://davis.wpi.edu/xmdv/docs/EDBT11-diyang.pdf)
+- [ ] [Efficient Computation of Frequent and Top-k Elements in Data Streams](http://www.cse.ust.hk/~raywong/comp5331/References/EfficientComputationOfFrequentAndTop-kElementsInDataStreams.pdf)
+- [ ] [An Optimal Strategy for Monitoring Top-k Queries in Streaming Windows](http://davis.wpi.edu/xmdv/docs/EDBT11-diyang.pdf)
 
 **Design an online multiplayer card game**   
 Reference:  
-* [How to Create an Asynchronous Multiplayer Game](http://www.indieflashblog.com/how-to-create-an-asynchronous-multiplayer-game.html)   
-* [How to Create an Asynchronous Multiplayer Game Part 2: Saving the Game State to Online Database](http://www.indieflashblog.com/how-to-create-async-part2.html)  
-* [How to Create an Asynchronous Multiplayer Game Part 3: Loading Games from the Database](http://www.indieflashblog.com/how-to-create-async-part3.html)  
-* [How to Create an Asynchronous Multiplayer Game Part 4: Matchmaking](http://www.indieflashblog.com/how-to-create-async-part4-html.html#comment-4447)  
-* [Real Time Multiplayer in HTML5](http://buildnewgames.com/real-time-multiplayer/)  
+- [ ] [How to Create an Asynchronous Multiplayer Game](http://www.indieflashblog.com/how-to-create-an-asynchronous-multiplayer-game.html)   
+- [ ] [How to Create an Asynchronous Multiplayer Game Part 2: Saving the Game State to Online Database](http://www.indieflashblog.com/how-to-create-async-part2.html)  
+- [ ] [How to Create an Asynchronous Multiplayer Game Part 3: Loading Games from the Database](http://www.indieflashblog.com/how-to-create-async-part3.html)  
+- [ ] [How to Create an Asynchronous Multiplayer Game Part 4: Matchmaking](http://www.indieflashblog.com/how-to-create-async-part4-html.html#comment-4447)  
+- [ ] [Real Time Multiplayer in HTML5](http://buildnewgames.com/real-time-multiplayer/)
 
 **Design a graph search function**   
 Reference:   
-* [Building out the infrastructure for Graph Search](https://www.facebook.com/notes/facebook-engineering/under-the-hood-building-out-the-infrastructure-for-graph-search/10151347573598920)
-* [Indexing and ranking in Graph Search](https://www.facebook.com/notes/facebook-engineering/under-the-hood-indexing-and-ranking-in-graph-search/10151361720763920) 
-* [The natural language interface of Graph Search](https://www.facebook.com/notes/facebook-engineering/under-the-hood-the-natural-language-interface-of-graph-search/10151432733048920) and [Erlang at Facebook](http://www.erlang-factory.com/upload/presentations/31/EugeneLetuchy-ErlangatFacebook.pdf)
+- [ ] [Building out the infrastructure for Graph Search](https://www.facebook.com/notes/facebook-engineering/under-the-hood-building-out-the-infrastructure-for-graph-search/10151347573598920)
+- [ ] [Indexing and ranking in Graph Search](https://www.facebook.com/notes/facebook-engineering/under-the-hood-indexing-and-ranking-in-graph-search/10151361720763920) 
+- [ ] [The natural language interface of Graph Search](https://www.facebook.com/notes/facebook-engineering/under-the-hood-the-natural-language-interface-of-graph-search/10151432733048920) and [Erlang at Facebook](http://www.erlang-factory.com/upload/presentations/31/EugeneLetuchy-ErlangatFacebook.pdf)
 
 **Design a picture sharing system**   
 Reference:   
-* [Flickr Architecture](http://highscalability.com/flickr-architecture) 
-* [Instagram Architecture](http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html)
+- [ ] [Flickr Architecture](http://highscalability.com/flickr-architecture) 
+- [ ] [Instagram Architecture](http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html)
 
 **Design a search engine**   
 Reference:  
-* [How would you implement Google Search?](http://programmers.stackexchange.com/questions/38324/interview-question-how-would-you-implement-google-search)  
-* [Implementing Search Engines](http://www.ardendertat.com/2012/01/11/implementing-search-engines/)
+- [ ] [How would you implement Google Search?](http://programmers.stackexchange.com/questions/38324/interview-question-how-would-you-implement-google-search)  
+- [ ] [Implementing Search Engines](http://www.ardendertat.com/2012/01/11/implementing-search-engines/)
 
 **Design a recommendation system**  
 Reference:  
-* [Hulu’s Recommendation System](http://tech.hulu.com/blog/2011/09/19/recommendation-system.html)  
-* [Recommender Systems](http://ijcai13.org/files/tutorial_slides/td3.pdf)
+- [ ] [Hulu’s Recommendation System](http://tech.hulu.com/blog/2011/09/19/recommendation-system.html)  
+- [ ] [Recommender Systems](http://ijcai13.org/files/tutorial_slides/td3.pdf)
 
 **Design a tinyurl system**    
 Reference: 
-* [System Design for Big Data-tinyurl](http://n00tc0d3r.blogspot.com/) 
-* [URL Shortener API](https://developers.google.com/url-shortener/?csw=1)
+- [ ] [System Design for Big Data-tinyurl](http://n00tc0d3r.blogspot.com/) 
+- [ ] [URL Shortener API](https://developers.google.com/url-shortener/?csw=1)
 
 **Design a garbage collection system**    
 Reference:   
-* [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
+- [ ] [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
  
 **Design a scalable web crawling system**    
 Reference:  
-* [How can I build a web crawler from scratch?](https://www.quora.com/How-can-I-build-a-web-crawler-from-scratch)
+- [ ] [How can I build a web crawler from scratch?](https://www.quora.com/How-can-I-build-a-web-crawler-from-scratch)
 
 **Design the Facebook chat function**    
 Reference:   
-* [Erlang at Facebook](http://www.erlang-factory.com/upload/presentations/31/EugeneLetuchy-ErlangatFacebook.pdf)  
-* [Facebook Chat](https://www.facebook.com/note.php?note_id=14218138919&id=9445547199&index=0)
+- [ ] [Erlang at Facebook](http://www.erlang-factory.com/upload/presentations/31/EugeneLetuchy-ErlangatFacebook.pdf)  
+- [ ] [Facebook Chat](https://www.facebook.com/note.php?note_id=14218138919&id=9445547199&index=0)
 
 **Design a trending topic system**    
 Reference:  
-* [Implementing Real-Time Trending Topics With a Distributed Rolling Count Algorithm in Storm](http://www.michael-noll.com/blog/2013/01/18/implementing-real-time-trending-topics-in-storm/)   
-* [Early detection of Twitter trends explained](http://snikolov.wordpress.com/2012/11/14/early-detection-of-twitter-trends/)
+- [ ] [Implementing Real-Time Trending Topics With a Distributed Rolling Count Algorithm in Storm](http://www.michael-noll.com/blog/2013/01/18/implementing-real-time-trending-topics-in-storm/)   
+- [ ] [Early detection of Twitter trends explained](http://snikolov.wordpress.com/2012/11/14/early-detection-of-twitter-trends/)
  
 **Design a cache system**    
 Reference:   
-* [Introduction to Memcached](http://www.slideshare.net/oemebamo/introduction-to-memcached)
+- [ ] [Introduction to Memcached](http://www.slideshare.net/oemebamo/introduction-to-memcached)
 
 ### [[⬆]](#toc) <a name='bk'>Good Books:</a>
 
-* [Big Data: Principles and best practices of scalable realtime data systems](http://www.amazon.com/Big-Data-Principles-practices-scalable/dp/1617290343)
-* [Real-Time Analytics: Techniques to Analyze and Visualize Streaming Data](http://www.amazon.com/Real-Time-Analytics-Techniques-Visualize-Streaming/dp/1118837916)
-* [Building Microservices: Designing Fine-Grained Systems](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358)
-* [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+- [ ] [Big Data: Principles and best practices of scalable realtime data systems](http://www.amazon.com/Big-Data-Principles-practices-scalable/dp/1617290343)
+- [ ] [Real-Time Analytics: Techniques to Analyze and Visualize Streaming Data](http://www.amazon.com/Real-Time-Analytics-Techniques-Visualize-Streaming/dp/1118837916)
+- [ ] [Building Microservices: Designing Fine-Grained Systems](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358)
+- [ ] [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 
 ### [[⬆]](#toc) <a name='ood'>Object Oriented Design:</a>
 
@@ -259,7 +259,7 @@ Use design patterns such that it can be reused in multiple applications.
 
 #### Useful Websites
 
-* [101 Design Patterns & Tips for Developers](http://sourcemaking.com/design-patterns-and-tips)
+- [ ] [101 Design Patterns & Tips for Developers](http://sourcemaking.com/design-patterns-and-tips)
 
 
 
