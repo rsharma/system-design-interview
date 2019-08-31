@@ -132,7 +132,7 @@ The following papers/articles/slides can help you to understand the general desi
 - [ ] [Scaling Mailbox](http://highscalability.com/blog/2013/6/18/scaling-mailbox-from-0-to-one-million-users-in-6-weeks-and-1.html) (TBD HS)
 - [ ] [Salesforce Architecture ](http://highscalability.com/blog/2013/9/23/salesforce-architecture-how-they-handle-13-billion-transacti.html) (TBD HS)
 - [ ] [ESPN Architecture](http://highscalability.com/blog/2013/11/4/espns-architecture-at-scale-operating-at-100000-duh-nuh-nuhs.html) (TBD HS)
-- [ ] [Uber Architecture](http://highscalability.com/blog/2015/9/14/how-uber-scales-their-real-time-market-platform.html) (TBD HS)(TBD HS)
+- [ ] [Uber Architecture](http://highscalability.com/blog/2015/9/14/how-uber-scales-their-real-time-market-platform.html) (TBD HS)
 - [ ] [DropBox Design](https://www.youtube.com/watch?v=PE4gwstWhmc)
 - [ ] [Splunk Architecture](http://www.splunk.com/view/SP-CAAABF9)
 
