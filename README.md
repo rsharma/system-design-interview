@@ -62,7 +62,7 @@ a good collection of material about [distributed systems](http://dancres.github.
 
 If you are going to have an onsite with a company, you should read their engineering blog. 
 
-- [ ] [High Scalability](http://highscalability.com/) (TBD Ama) (TBD HS)
+- [ ] [High Scalability](http://highscalability.com/)
 - [ ] [The GitHub Blog](https://github.com/blog/category/engineering)
 - [ ] [Engineering at Quora](http://engineering.quora.com/)
 - [ ] [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
@@ -74,7 +74,7 @@ If you are going to have an onsite with a company, you should read their enginee
 - [ ] [Airbnb Engineering](http://nerds.airbnb.com/)
 - [ ] [WebEngage Engineering Blog](http://engineering.webengage.com/)
 - [ ] [LinkedIn Engineering](http://engineering.linkedin.com/blog)
-- [ ] [The Netflix Tech Blog](http://techblog.netflix.com/) (TBD Ama)
+- [ ] [The Netflix Tech Blog](http://techblog.netflix.com/)
 - [ ] [BankSimple Simple Blog](https://www.simple.com/engineering/)
 - [ ] [Square The Corner](http://corner.squareup.com/)
 - [ ] [SoundCloud Backstage Blog](https://developers.soundcloud.com/blog/)
@@ -104,35 +104,35 @@ If you are going to have an onsite with a company, you should read their enginee
 
 The following papers/articles/slides can help you to understand the general design idea of different real products and systems. 
 
-- [ ] [MapReduce: Simplied Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/zh-CN/us/archive/mapreduce-osdi04.pdf) (TBD Ama)
+- [ ] [MapReduce: Simplied Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/zh-CN/us/archive/mapreduce-osdi04.pdf)
 - [ ] [Bigtable: A Distributed Storage System for Structured Data](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/chang06bigtable.pdf)
 - [ ] [The Google File System](http://static.googleusercontent.com/media/research.google.com/zh-CN/us/archive/gfs-sosp2003.pdf)
 - [ ] [The Chubby lock service for loosely-coupled distributed systems](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/chubby-osdi06.pdf)
-- [ ] [Dynamo: Amazon's Highly Available Key-value Store](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf) (TBD Ama)
+- [ ] [Dynamo: Amazon's Highly Available Key-value Store](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf)
 - [ ] [Introduction to Memcached](http://www.slideshare.net/oemebamo/introduction-to-memcached)
 - [ ] [Cassandra Introduction Features](http://www.slideshare.net/planetcassandra/cassandra-introduction-features-30103666)
 - [ ] [Introduction to HBase](http://www.slideshare.net/alexbaranau/intro-to-hbase)
 - [ ] [Introduction to MongoDB](http://www.slideshare.net/mdirolf/introduction-to-mongodb)
-- [ ] [Introduction to Redis](http://www.slideshare.net/dvirsky/introduction-to-redis) (TBD Ama)
+- [ ] [Introduction to Redis](http://www.slideshare.net/dvirsky/introduction-to-redis)
 - [ ] [Storm](http://www.slideshare.net/previa/storm-16094009)
 - [ ] [Introduction to Zookeeper](http://www.slideshare.net/sauravhaloi/introduction-to-apache-zookeeper)
 - [ ] [Kafka](http://www.slideshare.net/mumrah/kafka-talk-tri-hug)
-- [ ] [YouTube Architecture](http://highscalability.com/youtube-architecture) (TBD Ama) (TBD HS)
-- [ ] [Scaling Pinterest](http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html) (TBD HS)
-- [ ] [Google Architecture](http://highscalability.com/google-architecture) (TBD HS)
-- [ ] [Scaling Twitter](http://highscalability.com/scaling-twitter-making-twitter-10000-percent-faster) (TBD Ama) (TBD HS)
-- [ ] [The WhatsApp Architecture](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html) (TBD HS)
-- [ ] [Flickr Architecture](http://highscalability.com/flickr-architecture) (TBD HS)
-- [ ] [Amazon Architecture](http://highscalability.com/amazon-architecture) (TBD Ama) (TBD HS)
-- [ ] [Stack Overflow Architecture](http://highscalability.com/blog/2009/8/5/stack-overflow-architecture.html) (TBD HS)
-- [ ] [Pinterest Architecture](http://highscalability.com/blog/2012/5/21/pinterest-architecture-update-18-million-visitors-10x-growth.html) (TBD HS)
-- [ ] [Tumblr Architecture](http://highscalability.com/blog/2012/2/13/tumblr-architecture-15-billion-page-views-a-month-and-harder.html) (TBD HS)
-- [ ] [Instagram Architecture](http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html) (TBD HS)
-- [ ] [TripAdvisor Architecture](http://highscalability.com/blog/2011/6/27/tripadvisor-architecture-40m-visitors-200m-dynamic-page-view.html) (TBD HS)
-- [ ] [Scaling Mailbox](http://highscalability.com/blog/2013/6/18/scaling-mailbox-from-0-to-one-million-users-in-6-weeks-and-1.html) (TBD HS)
-- [ ] [Salesforce Architecture ](http://highscalability.com/blog/2013/9/23/salesforce-architecture-how-they-handle-13-billion-transacti.html) (TBD HS)
-- [ ] [ESPN Architecture](http://highscalability.com/blog/2013/11/4/espns-architecture-at-scale-operating-at-100000-duh-nuh-nuhs.html) (TBD HS)
-- [ ] [Uber Architecture](http://highscalability.com/blog/2015/9/14/how-uber-scales-their-real-time-market-platform.html) (TBD HS)(TBD HS)
+- [ ] [YouTube Architecture](http://highscalability.com/youtube-architecture)
+- [ ] [Scaling Pinterest](http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html)
+- [ ] [Google Architecture](http://highscalability.com/google-architecture)
+- [ ] [Scaling Twitter](http://highscalability.com/scaling-twitter-making-twitter-10000-percent-faster)
+- [ ] [The WhatsApp Architecture](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html)
+- [ ] [Flickr Architecture](http://highscalability.com/flickr-architecture)
+- [ ] [Amazon Architecture](http://highscalability.com/amazon-architecture)
+- [ ] [Stack Overflow Architecture](http://highscalability.com/blog/2009/8/5/stack-overflow-architecture.html)
+- [ ] [Pinterest Architecture](http://highscalability.com/blog/2012/5/21/pinterest-architecture-update-18-million-visitors-10x-growth.html)
+- [ ] [Tumblr Architecture](http://highscalability.com/blog/2012/2/13/tumblr-architecture-15-billion-page-views-a-month-and-harder.html)
+- [ ] [Instagram Architecture](http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html)
+- [ ] [TripAdvisor Architecture](http://highscalability.com/blog/2011/6/27/tripadvisor-architecture-40m-visitors-200m-dynamic-page-view.html)
+- [ ] [Scaling Mailbox](http://highscalability.com/blog/2013/6/18/scaling-mailbox-from-0-to-one-million-users-in-6-weeks-and-1.html)
+- [ ] [Salesforce Architecture ](http://highscalability.com/blog/2013/9/23/salesforce-architecture-how-they-handle-13-billion-transacti.html)
+- [ ] [ESPN Architecture](http://highscalability.com/blog/2013/11/4/espns-architecture-at-scale-operating-at-100000-duh-nuh-nuhs.html)
+- [ ] [Uber Architecture](http://highscalability.com/blog/2015/9/14/how-uber-scales-their-real-time-market-platform.html)
 - [ ] [DropBox Design](https://www.youtube.com/watch?v=PE4gwstWhmc)
 - [ ] [Splunk Architecture](http://www.splunk.com/view/SP-CAAABF9)
 
@@ -156,7 +156,7 @@ Reference:
 
 **Design a key-value database**  
 Reference:   
-- [ ] [Introduction to Redis](http://www.slideshare.net/dvirsky/introduction-to-redis) (TBD Ama)
+- [ ] [Introduction to Redis](http://www.slideshare.net/dvirsky/introduction-to-redis)
 
 **Design the Facebook news feed function**   
 Reference:   
@@ -206,7 +206,7 @@ Reference:
 **Design a tinyurl system**    
 Reference: 
 - [ ] [System Design for Big Data-tinyurl](http://n00tc0d3r.blogspot.com/) 
-- [ ] [URL Shortener API](https://developers.google.com/url-shortener/?csw=1) (TBD Ama)
+- [ ] [URL Shortener API](https://developers.google.com/url-shortener/?csw=1)
 
 **Design a garbage collection system**    
 Reference:   
